@@ -1,0 +1,12 @@
+##
+## Hello Kitty
+## Using Unicode characters and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts  \x1B[37m\x{039B}\x1B[91mc\xF4\x{0254}\x1B[m
+           \x1B[37;4;9m(\x1B[29;24m'\x1B[33m\x{2022}\x1B[37m'\x1B[4;9m)\x1B[m
+           \x1B[37m\xF3\x1B[91;4m/\x{1D41}\\\x1B[24;37m\xF2\x1B[m
+            \x1B[37m\x{2570}\x{2534}\x{256F}\x1B[m
+EOC

@@ -1,0 +1,12 @@
+##
+## Link (The Legend of Zelda)
+## Adapted from Famicom/NES sprite to Octants (Unicode 16.0) and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts\xA0\x1B[38;5;215m\x{2597}\x1B[38;5;112m\x{1CD96}\x1B[48;5;166m\x{2580}\x{2580}\x{2580}\x1B[49m\x{1CD48}\x1B[38;5;215m\x{2596}\x1B[m
+          \xA0\x1B[38;5;215m\x{259D}\x1B[48;5;166m\x{1CD2C}\x{1CDE0}\x{1FB85}\x{1CDE3}\x{1CD31}\x1B[49m\x{2598}\x1B[m
+          \x1B[48;5;27;38;5;145m\x{1FBE7}\x1B[38;5;227m\x{1FBE7}\x{1FBE6}\x1B[38;5;145m\x{1FBE6}\x1B[48;5;215;38;5;112m\x{1CD33}\x{1CD35}\x{1CD3C}\x1B[38;5;166m\x{1CD26}\x1B[m
+          \x1B[38;5;27m\x{1CD26}\x1B[48;5;160m\x{1CDCF}\x{1CDC3}\x1B[48;5;166m\x{1CD17}\x1B[49;38;5;112m\x{2580}\x1B[48;5;166m\x{2580}\x1B[49m\x{1CD02}\x1B[38;5;215m\x{1CEA8}\x1B[m
+EOC
