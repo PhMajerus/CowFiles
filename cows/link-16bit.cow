@@ -1,0 +1,14 @@
+##
+## Link (The Legend of Zelda - A Link to the Past / Kamigami no Triforce)
+## Adapted from Super Famicom/SNES sprite to Sextants (Unicode 13.0) and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[38;5;16m\x{1FB35}\x1B[48;5;70m\x{1FB06}\x1B[48;5;112m\x{1FB02}\x{1FB0A}\x1B[49m\x{1FB31}\x1B[m
+         $thoughts\x1B[38;5;16m\x{1FB26}\x1B[48;5;216m\x{1FB28}\x1B[48;5;16;38;5;212m\x{1FB29}\x1B[48;5;70m\x{1FB31}\x{1FB2D}\x{1FB35}\x1B[38;5;16m\x{1FB14}\x1B[38;5;16;48;5;216m\x{1FB15}\x1B[49m\x{1FB13}\x1B[m
+          \x1B[38;5;16m\x{1FB09}\x1B[48;5;172m\x{1FB16}\x{1FB19}\x1B[48;5;231m\x{1FB21}\x1B[48;5;172m\x{1FB02}\x1B[48;5;231m\x{1FB12}\x1B[48;5;172m\x{1FB25}\x{1FB22}\x1B[49m\x{1FB04}\x1B[m
+           \x1B[38;5;16m\x{1FB37}\x1B[48;5;172m\x{1FB22}\x1B[48;5;216m\x{1FB11}\xA0\x{1FB1F}\x1B[48;5;172m\x{1FB16}\x1B[49m\x{1FB32}\x1B[m
+          \x1B[38;5;16m\x{2590}\x1B[48;5;136;38;5;84m\x{1FB01}\x1B[48;5;72;38;5;16m\x{1FB0F}\x1B[38;5;84m\x{1FB22}\x1B[48;5;16m\x{1FB39}\x1B[48;5;72m\x{1FB35}\x1B[38;5;16m\x{1FB1E}\x1B[48;5;136;38;5;84m\x{1FB00}\x1B[38;5;16;49m\x{258C}\x1B[m
+          \x1B[38;5;16m\x{1FB09}\x1B[48;5;215m\x{1FB35}\x1B[48;5;72m\x{1FB17}\x1B[38;5;227m\x{1FB22}\x1B[48;5;84m\x{1FB39}\x1B[48;5;72m\x{1FB16}\x1B[38;5;16m\x{1FB24}\x1B[48;5;215m\x{1FB31}\x1B[49m\x{1FB04}\x1B[m
+           \x1B[38;5;16m\x{1FB09}\x1B[48;5;196m\x{1FB33}\x1B[48;5;208m\x{1FB38}\x1B[48;5;72m\x{1FB39}\x1B[48;5;208m\x{1FB34}\x1B[48;5;196m\x{1FB36}\x1B[49m\x{1FB04}\x1B[m
+EOC

@@ -21,6 +21,12 @@ It is based on the Hello Kitty character by Yuko Shimizu / Sanrio.
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is inspired by the Famicom/NES game The legend of Zelda.
 
+### link-16bit
+![link-16bit](images/link-16bit.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is inspired by the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
+
 ### sxl-cow
 ![sxl-cow](images/sxl-cow.png)
 
