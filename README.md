@@ -33,6 +33,12 @@ It is inspired by the Famicom/NES game The legend of Zelda.
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is inspired by the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
 
+### mario
+![mario](images/mario.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is inspired by the Famicom/NES game Super Mario Bros.
+
 ### rover
 ![rover](images/rover.png)
 
