@@ -59,7 +59,7 @@ You'll need the cowsay utility, so start with `sudo apt install cowsay` or equiv
 
 Copy the files from this repo's `cows` folder to  `/usr/share/cowsay/cows`.
 
-Then simply use the `cowsay -f [cow name] [message]` command.
+Then simply use the `cowsay -f [character name] [message]` command.
 
 ---
 
