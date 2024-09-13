@@ -1,0 +1,14 @@
+##
+## Clippit (assistant from Microsoft Office)
+## Using MS-DOS codepage 437 characters and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts       \x1B[37m_\x1B[39m 
+         $thoughts    \x1B[97;4m_\x1B[24;37m/ \\\x1B[97;4m_\x1B[24;39m
+          $thoughts  \x1B[90m(\x1B[97mo\x1B[90m) (\x1B[97mo\x1B[90m)\x1B[39m
+           $thoughts  \x1B[37m|, |,\x1B[39m
+              \x1B[37m|| ||\x1B[39m
+              \x1B[37m|\\_/|\x1B[39m
+              \x1B[37m\\___/\x1B[39m
+EOC

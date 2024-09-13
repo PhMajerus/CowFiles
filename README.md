@@ -9,6 +9,12 @@ While original cowsay files are ASCII-art, I decided to experiment with ANSI/VT 
 
 ## Characters in this repository
 
+### clippit
+![clippit](images/clippit.png)
+
+This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attributes.
+It is based on the assistant from Microsoft Office.
+
 ### hellokitty
 ![hellokitty](images/hellokitty.png)
 
