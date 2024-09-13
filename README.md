@@ -27,6 +27,12 @@ It is inspired by the Famicom/NES game The legend of Zelda.
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is inspired by the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
 
+### rover
+![rover](images/rover.png)
+
+This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attributes.
+It is based on the assistant from Microsoft Bob and Windows XP.
+
 ### sxl-cow
 ![sxl-cow](images/sxl-cow.png)
 

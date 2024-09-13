@@ -1,0 +1,13 @@
+##
+## Rover (assistant from Microsoft Bob and Office)
+## Using MS-DOS codepage 437 characters and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[33m_.---._\x1B[39m
+         $thoughts \x1B[33m/, \x1B[37m\x{14D} \x{14D}\x1B[33m ,\\\x1B[39m
+           \x1B[33m\\/\\_\x1B[90mO\x1B[33m_/\\/\x1B[39m
+             \x1B[33m/\x1B[93m\x{263B}\x1B[31m==\"\x1B[33m_\\\x1B[39m
+            \x1B[33m,\\, )/.\\\\_/|\x1B[39m
+           \x1B[33m(m(m/(m_))-\xB4\x1B[39m
+EOC
