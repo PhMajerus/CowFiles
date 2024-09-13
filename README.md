@@ -59,6 +59,10 @@ sudo mv default.cow legacy-cow.cow
 sudo ln -s sxl-cow.cow default.cow
 ```
 
+### sxl-mario+yoshi
+![sxl-mario+yoshi](images/sxl-mario+yoshi.png)
+
+This is a sixel image conversion of the Super Mario World sprites of Mario & Yoshi.
 
 ## Installing & using cow files
 You'll need the cowsay utility, so start with `sudo apt install cowsay` or equivalent for your distro.
@@ -66,6 +70,9 @@ You'll need the cowsay utility, so start with `sudo apt install cowsay` or equiv
 Copy the files from this repo's `cows` folder to  `/usr/share/cowsay/cows`.
 
 Then simply use the `cowsay -f [character name] [message]` command.
+
+For Unicode sextants and octants, you will need recent fonts that include the _Legacy Computing Symbols_, such as [Cascadia Mono](https://github.com/microsoft/cascadia-code) or [Iosevka Term](https://github.com/be5invis/Iosevka).
+For sixels images support, [Windows Terminal](https://github.com/microsoft/terminal) or another VT340-compatible terminal emulator is required.
 
 ---
 

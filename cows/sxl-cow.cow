@@ -1,6 +1,6 @@
 ##
 ## Sixel Cow (Earthworm Jim)
-## Adapted from Super Famicom/SNES sprite to Sixel image
+## Converted from Super Famicom/SNES sprite to Sixel image
 ## by Philippe Majerus (http://www.phm.lu/)
 ##
 $the_cow = <<"EOC";
