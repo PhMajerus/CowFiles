@@ -7,7 +7,9 @@ This repository contains the characters files ("cows") I created for the [cowsay
 While original cowsay files are ASCII-art, I decided to experiment with ANSI/VT coloring, extended Unicode characters, pseudo-pixels (such as Unicode 13.0 sextants and Unicode 16.0 octants), and [Sixels](https://en.wikipedia.org/wiki/Sixel).
 
 
+
 ## Characters in this repository
+
 
 ### clippit
 ![clippit](images/clippit.png)
@@ -15,11 +17,13 @@ While original cowsay files are ASCII-art, I decided to experiment with ANSI/VT 
 This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attributes.
 It is based on the assistant from Microsoft Office.
 
+
 ### hellokitty
 ![hellokitty](images/hellokitty.png)
 
 This uses extended Unicode characters and ANSI/VT colors (16 colors) and attributes (strikethrough, underline).
 It is based on the Hello Kitty character by Yuko Shimizu / Sanrio.
+
 
 ### link
 ![link](images/link.png)
@@ -27,11 +31,13 @@ It is based on the Hello Kitty character by Yuko Shimizu / Sanrio.
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is inspired by the Famicom/NES game The legend of Zelda.
 
+
 ### link-16bit
 ![link-16bit](images/link-16bit.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is inspired by the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
+
 
 ### mario
 ![mario](images/mario.png)
@@ -39,11 +45,13 @@ It is inspired by the Famicom/NES game The legend of Zelda - A Link to the Past 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is inspired by the Famicom/NES game Super Mario Bros.
 
+
 ### rover
 ![rover](images/rover.png)
 
 This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attributes.
 It is based on the assistant from Microsoft Bob and Windows XP.
+
 
 ### sxl-cow
 ![sxl-cow](images/sxl-cow.png)
@@ -59,10 +67,19 @@ sudo mv default.cow legacy-cow.cow
 sudo ln -s sxl-cow.cow default.cow
 ```
 
+
+### sxl-guybrush
+![sxl-guybrush](images/sxl-guybrush.png)
+
+This is a sixel image conversion of Guybrush Threepwood from The Secret of Monkey Island.
+
+
 ### sxl-mario+yoshi
 ![sxl-mario+yoshi](images/sxl-mario+yoshi.png)
 
 This is a sixel image conversion of the Super Mario World sprites of Mario & Yoshi.
+
+
 
 ## Installing & using cow files
 You'll need the cowsay utility, so start with `sudo apt install cowsay` or equivalent for your distro.
