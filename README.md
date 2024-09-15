@@ -11,6 +11,13 @@ While original cowsay files are ASCII-art, I decided to experiment with ANSI/VT 
 ## Characters in this repository
 
 
+### alexkidd
+![alexkidd](images/alexkidd.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the Mark III/Master System game Alex Kidd in Miracle World.
+
+
 ### clippit
 ![clippit](images/clippit.png)
 
@@ -22,7 +29,7 @@ It is based on the assistant from Microsoft Office.
 ![flappybird](images/flappybird.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is inspired by the mobile phone game Flappy Bird.
+It is based on the mobile phone game Flappy Bird.
 
 
 ### hellokitty
@@ -36,21 +43,21 @@ It is based on the Hello Kitty character by Yuko Shimizu / Sanrio.
 ![link](images/link.png)
 
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
-It is inspired by the Famicom/NES game The legend of Zelda.
+It is based on the Famicom/NES game The legend of Zelda.
 
 
 ### link-16bit
 ![link-16bit](images/link-16bit.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is inspired by the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
+It is based on the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
 
 
 ### mario
 ![mario](images/mario.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is inspired by the Famicom/NES game Super Mario Bros.
+It is based on the Famicom/NES game Super Mario Bros.
 
 
 ### rover
@@ -91,7 +98,7 @@ This is a sixel image conversion of the Super Mario World sprites of Mario & Yos
 ![tiki](images/tiki.png)
 
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
-It is inspired by the arcade game The NewZealand Story.
+It is based on the arcade game The NewZealand Story.
 
 
 
