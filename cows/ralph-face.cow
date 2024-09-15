@@ -1,0 +1,14 @@
+##
+## Ralph face (Wreck-it Ralph)
+## Adapted from movie soundtrack cover to Octants (Unicode 16.0) and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+       $thoughts    \x1B[0;38;5;124m\x{1CD18}\x{1CDBB}\x{1CD78}\x{2586}\x{2586}\x{2584}\x{1CDCB}\x{1CDC7}\x{1CEA3}\x1B[m
+        $thoughts  \x1B[38;5;124m\x{1CD2F}\x{1CDE5}\x{2588}\x{2588}\x{2588}\x{2588}\x{2588}\x{2588}\x{2588}\x{1CDDE}\x{1CD14}\x1B[m
+          \x1B[38;5;124m\x{1FBE7}\x{259F}\x{2588}\x{2588}\x1B[48;5;217m\x{1CD19}\x1B[38;5;88m\x{1CDBB}\x1B[38;5;210m\x{2582}\x1B[38;5;88m\x{1CDCB}\x1B[38;5;124m\x{1CD0B}\x1B[49m\x{2588}\x{2588}\x{1CDE0}\x{1CD09}\x1B[m
+           \x1B[38;5;124m\x{1CD25}\x1B[48;5;217;38;5;210m\x{1CD92}\x1B[38;5;124m\x{1CD98}\x1B[38;5;231m\x{2590}\x1B[48;5;231;38;5;16m\x{2584}\x1B[48;5;210;38;5;88m\x{1FB82}\x1B[48;5;231;38;5;16m\x{2584}\x1B[38;5;231;48;5;217m\x{258C}\x1B[38;5;124m\x{1CD4A}\x1B[38;5;210m\x{1CD47}\x1B[49;38;5;124m\x{1CD0A}\x1B[m
+            \x1B[38;5;217m\x{259C}\x1B[48;5;217;38;5;124m\x{259D}\xA0\x1B[38;5;203m\x{1CD26}\x{1FB85}\x{1CD17}\xA0\x1B[38;5;124m\x{2598}\x1B[49;38;5;217m\x{259B}\x1B[m
+            \x1B[38;5;217m\x{1CD21}\x1B[48;5;217;38;5;16m\x{1CD96}\x1B[48;5;231m\x{1CEA8}\xA0\xA0\xA0\x{1CEAB}\x1B[48;5;217m\x{1CD48}\x1B[49;38;5;217m\x{1CD0D}\x1B[m
+             \x1B[38;5;217m\x{1CD05}\x{1CD26}\x{1FB85}\x{1FB85}\x{1FB85}\x{1CD17}\x{1CD02}\x1B[m
+EOC

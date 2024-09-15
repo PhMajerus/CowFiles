@@ -60,6 +60,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the Famicom/NES game Super Mario Bros.
 
 
+### ralph-face
+![ralph-face](images/ralph-face.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is based on the cover of the movie soundtrack of Wreck-It Ralph.
+
+
 ### rover
 ![rover](images/rover.png)
 
