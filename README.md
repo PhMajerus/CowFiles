@@ -18,6 +18,13 @@ This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attr
 It is based on the assistant from Microsoft Office.
 
 
+### flappybird
+![flappybird](images/flappybird.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is inspired by the mobile phone game Flappy Bird.
+
+
 ### hellokitty
 ![hellokitty](images/hellokitty.png)
 

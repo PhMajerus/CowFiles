@@ -1,0 +1,12 @@
+##
+## Flappy Bird
+## Adapted from mobile phone game sprite to Sextants (Unicode 13.0) and VT coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[38;5;16m\x{1FB1E}\x{1FB2D}\x{1FB2D}\x{1FB2D}\x1B[39m
+         $thoughts \x1B[38;5;16m\x{1FB1E}\x1B[48;5;231m\x{1FB25}\x{1FB01}\x1B[48;5;220m\x{1FB13}\xA0\x{1FB21}\x1B[49m\x{1FB31}\x{1FB0F}\x1B[39m
+           \x1B[38;5;16m\x{1FB37}\x1B[48;5;231m\x{1FB2F}\x{1FB35}\x1B[48;5;220m\x{1FB00}\x{1FB26}\x1B[48;5;231m\x{1FB00}\xA0\x{2590}\x1B[49;39m
+          \x1B[38;5;16m\x{1FB01}\x1B[48;5;202m\x{1FB1A}\x{1FB0B}\x{1FB24}\x1B[48;5;178m\x{1FB03}\xA0\x{1FB27}\x1B[48;5;220m\x{1FB39}\x1B[49m\x{1FB06}\x1B[39m
+           \x1B[38;5;16m\x{1FB02}\x{1FB02}\x{1FB0E}\x1B[48;5;178m\x{1FB39}\x{1FB3B}\x1B[49m\x{1FB0E}\x{1FB00}\x1B[39m
+EOC
