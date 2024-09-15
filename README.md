@@ -80,6 +80,13 @@ This is a sixel image conversion of Guybrush Threepwood from The Secret of Monke
 This is a sixel image conversion of the Super Mario World sprites of Mario & Yoshi.
 
 
+### tiki
+![tiki](images/tiki.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is inspired by the arcade game The NewZealand Story.
+
+
 
 ## Installing & using cow files
 You'll need the cowsay utility, so start with `sudo apt install cowsay` or equivalent for your distro.

@@ -1,0 +1,14 @@
+##
+## Tiki (The NewZealand Story)
+## Adapted from arcade game sprite to Octants (Unicode 16.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[38;5;16m\x{1CD80}\x{1CEA0}\x{2582}\x{2582}\x{2582}\x1B[39m
+         $thoughts \x1B[38;5;16m\x{1CD72}\x1B[48;5;214m\x{1CD0F}\x{1CEA8}\xA0\xA0\x{1FB82}\x1B[48;5;208m\x{259C}\x1B[49m\x{2596}\x1B[39m
+           \x1B[38;5;16m\x{2590}\x1B[48;5;214m\x{2590}\xA0\x{2590}\xA0\xA0\x1B[38;5;208m\x{2590}\x1B[38;5;16;49m\x{2599}\x1B[39m
+           \x1B[38;5;16m\x{2590}\x1B[48;5;214;38;5;197m\x{1CD2F}\x{1CD33}\xA0\xA0\x1B[38;5;208m\x{1CEA0}\x1B[48;5;208;38;5;16m\xA0\x{259D}\x1B[49m\x{1CD48}\x1B[39m
+           \x1B[38;5;16m\x{259D}\x1B[48;5;214m\x{1CDBF}\xA0\x1B[38;5;208m\x{1CEA0}\x{1CDCB}\x1B[48;5;208;38;5;16m\x{1CD1C}\x{1CD27}\x{1CD76}\x1B[49m\x{1CD0D}\x1B[39m
+           \x1B[38;5;16m\x{2597}\x1B[48;5;231m\x{1CD02}\x1B[48;5;123m\x{1CD05}\x1B[48;5;27m\x{1CD91}\x1B[48;5;231m\x{1CD02}\x1B[48;5;123m\x{1CD05}\x1B[48;5;27m\x{1CEAB}\x1B[48;5;123m\x{1CD05}\x1B[49m\x{2596}\x1B[39m
+           \x1B[38;5;16m\x{1CEAB}\x{1FB82}\x{1FB82}\x{1FB82}\x{1FB82}\x{1FB82}\x{1FB82}\x{1FB82}\x{1CEA8}\x1B[39m
+EOC

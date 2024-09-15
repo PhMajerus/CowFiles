@@ -4,9 +4,9 @@
 ## by Philippe Majerus (http://www.phm.lu/)
 ##
 $the_cow = <<EOC;
-        $thoughts  \xA0\x1B[38;5;160m\x{1FB2D}\x{1FB35}\x{1FB39}\x{1FB39}\x{1FB0F}\x1B[39m
+        $thoughts   \x1B[38;5;160m\x{1FB2D}\x{1FB35}\x{1FB39}\x{1FB39}\x{1FB0F}\x1B[39m
          $thoughts \x1B[38;5;224m\x{1FB1E}\x{1FB39}\x1B[48;5;224;38;5;16m\x{1FB18}\xA0\x1B[38;5;95m\x{1FB38}\x{1FB28}\x1B[39;49m
-           \xA0\x1B[38;5;16m\x{1FB02}\x1B[48;5;224m\x{1FB30}\x1B[38;5;160m\x{1FB2D}\x1B[38;5;27m\x{1FB2D}\x1B[38;5;95;49m\x{1FB02}\x1B[39m
+            \x1B[38;5;16m\x{1FB02}\x1B[48;5;224m\x{1FB30}\x1B[38;5;160m\x{1FB2D}\x1B[38;5;27m\x{1FB2D}\x1B[38;5;95;49m\x{1FB02}\x1B[39m
            \x1B[38;5;160m\x{1FB26}\x1B[48;5;231m\x{1FB2C}\x1B[48;5;27;38;5;221m\x{1FB1E}\x1B[38;5;160m\x{1FB02}\x1B[38;5;221m\x{1FB0F}\x1B[48;5;231;38;5;160m\x{1FB1D}\x1B[49m\x{1FB13}\x1B[39m
            \x1B[38;5;231m\x{1FB09}\x1B[48;5;231;38;5;27m\x{1FB35}\x{2588}\x1B[49m\x{1FB0E}\x1B[48;5;231m\x{2588}\x{1FB31}\x1B[49;38;5;231m\x{1FB04}\x1B[39m
            \x1B[38;5;16m\x{1FB07}\x{1FB0E}\x{1FB04}\xA0\x{1FB09}\x{1FB0E}\x{1FB03}\x1B[39m
