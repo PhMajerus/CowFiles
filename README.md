@@ -101,6 +101,12 @@ This is a sixel image conversion of Guybrush Threepwood from The Secret of Monke
 This is a sixel image conversion of the Super Mario World sprites of Mario & Yoshi.
 
 
+### sxl-vanellope
+![sxl-vanellope](images/sxl-vanellope.png)
+
+This is a sixel image conversion of Vanellope von Schweetz character illustration from Wreck-It Ralph.
+
+
 ### tiki
 ![tiki](images/tiki.png)
 
