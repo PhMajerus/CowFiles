@@ -43,14 +43,14 @@ It is based on the Hello Kitty character by Yuko Shimizu / Sanrio.
 ![link](images/link.png)
 
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
-It is based on the Famicom/NES game The legend of Zelda.
+It is based on the Famicom/NES game The legend of Zelda / ゼルダの伝説.
 
 
 ### link-16bit
 ![link-16bit](images/link-16bit.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on the Famicom/NES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
+It is based on the Super Famicom/SNES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
 
 
 ### mario
