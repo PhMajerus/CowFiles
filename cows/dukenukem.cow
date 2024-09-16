@@ -1,0 +1,19 @@
+##
+## Duke Nukem
+## Adapted from PC game sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts    \x1B[38;5;16m\x{1FB2D}\x{1FB2D}\x{1FB2D}\x{1FB2D}\x{1FB0F}\x1B[39m
+         $thoughts  \x1B[38;5;16m\x{1FB01}\x1B[48;5;227m\x{1FB31}\x1B[38;5;203m\x{1FB2D}\x1B[38;5;59m\x{1FB0F}\xA0\x1B[38;5;16m\x{1FB28}\x1B[39;49m
+          $thoughts \x1B[38;5;16m\x{1FB1E}\x1B[48;5;203m\x{1FB06}\x1B[38;5;231m\x{1FB07}\x1B[38;5;59m\x{1FB02}\x1B[38;5;16m\x{1FB28}\x1B[48;5;227m\x{2590}\x1B[39;49m
+            \x1B[38;5;16m\x{1FB01}\x1B[48;5;203m\x{1FB1D}\x1B[38;5;231m\x{1FB0B}\xA0\x1B[38;5;59m\x{1FB37}\x1B[49;38;5;16m\x{258C}\x1B[39m
+             \x1B[38;5;16m\x{1FB37}\x1B[48;5;127m\x{1FB1F}\x1B[38;5;203m\x{1FB35}\x{1FB39}\x1B[38;5;16;48;5;207m\x{1FB24}\x1B[49m\x{1FB31}\x1B[39m
+        \x1B[38;5;59m\x{1FB1E}\x1B[48;5;231m\x{1FB06}\x{1FB15}\x{1FB15}\x1B[38;5;16m\x{1FB1D}\x1B[48;5;145m\x{1FB06}\x1B[38;5;59m\x{1FB25}\x1B[38;5;16m\x{1FB12}\x1B[48;5;203m\x{1FB1A}\x1B[38;5;145m\x{1FB05}\x1B[38;5;59m\x{1FB28}\x1B[49;38;5;16m\x{258C}\x1B[39m
+        \x1B[38;5;16m\x{1FB01}\x1B[48;5;145m\x{1FB31}\x{1FB32}\x{1FB32}\x{1FB3A}\x{1FB32}\x1B[48;5;231m\x{1FB29}\x1B[38;5;145;48;5;203m\x{1FB02}\x1B[38;5;16m\x{1FB1F}\x{1FB39}\x1B[49m\x{1FB06}\x1B[39m
+             \x1B[38;5;16m\x{2590}\x1B[38;5;37;48;5;19m\x{1FB00}\x1B[38;5;145m\x{1FB0A}\x1B[38;5;16m\x{1FB25}\x{1FB28}\x1B[39;49m
+             \x1B[38;5;16m\x{2590}\x1B[38;5;63;48;5;19m\x{258C}\xA0\x1B[38;5;16;48;5;63m\x{258C}\x1B[48;5;19m\x{2590}\x1B[39;49m
+             \x1B[38;5;16m\x{2590}\x1B[38;5;145;48;5;19m\x{1FB2D}\x{1FB2D}\x1B[38;5;16m\x{1FB32}\x{1FB37}\x1B[39;49m
+            \x1B[38;5;16;48;5;63m\x{1FB15}\x{1FB02}\xA0\xA0\x{258C}\x{2590}\x1B[39;49m
+            \x1B[38;5;16m\x{1FB01}\x{1FB02}\x{1FB02}\x{1FB02}\x{1FB02}\x{1FB02}\x1B[39m
+EOC

@@ -25,6 +25,13 @@ This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attr
 It is based on the assistant from Microsoft Office.
 
 
+### dukenukem
+![dukenukem](images/dukenukem.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the original PC game Duke Nukem by Apogee Software.
+
+
 ### flappybird
 ![flappybird](images/flappybird.png)
 
