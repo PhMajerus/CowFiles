@@ -121,6 +121,13 @@ This is a sixel image conversion of the Super Mario World sprites of Mario & Yos
 This is a sixel image conversion of Vanellope von Schweetz character illustration from Wreck-It Ralph.
 
 
+### tamagotchi
+![tamagotchi](images/tamagotchi.png)
+
+This uses Unicode 16.0 separated sextants.
+It is based on the 1<sup>st</sup> generation of Tamagotchi/たまごっち LCD toy by Bandai.
+
+
 ### tiki
 ![tiki](images/tiki.png)
 

@@ -1,0 +1,12 @@
+##
+## Tamagotchi (based on 1st gen LCD toy)
+## Using Unicode separated sextants characters
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts    \x{1CE68}\x{1CE5C}\x{1CE5C}\x{1CE60}
+         $thoughts \x{1CE76}\x{1CE83}\x{1CE52}\xA0\x{1CE52}\x{1CE52}\x{1CE64}
+           \x{1CE59}\x{1CE7C}\xA0\xA0\x{1CE60}\x{1CE60}\x{1CE75}
+            \x{1CE5A}\x{1CE60}\xA0\x{1CE59}\x{1CE51}\x{1CE6A}
+             \x{1CE5A}\x{1CE6A}\x{1CE5B}\x{1CE6A}
+EOC
