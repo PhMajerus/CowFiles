@@ -60,6 +60,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the Famicom/NES game Super Mario Bros.
 
 
+### mona
+![mona](images/mona.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is based on the GitHub octocat mascot loading animation.
+
+
 ### ralph-face
 ![ralph-face](images/ralph-face.png)
 
