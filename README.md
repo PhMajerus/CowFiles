@@ -78,7 +78,7 @@ It is based on the assistant from Microsoft Bob and Windows XP.
 ![sonic](images/sonic.png)
 
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
-It is based on the Game Gear version of the game Sonic the Hedgehog.
+It is based on the Game Gear version of the game Sonic the Hedgehog 2.
 
 
 ### sxl-cow
