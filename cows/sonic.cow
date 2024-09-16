@@ -1,0 +1,15 @@
+##
+## Sonic (Sonic the Hedgehog - 8-bit)
+## Adapted from Game Gear sprite to Octants (Unicode 16.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[38;5;63;48;5;19m\x{1CD84}\x1B[49m\x{2586}\x1B[48;5;19m\x{1CD14}\x1B[38;5;215m\x{2596}\x1B[38;5;63m\x{1CD14}\x1B[38;5;19;49m\x{1CD06}\x1B[39m
+         $thoughts \x1B[38;5;19m\x{1CD96}\x1B[48;5;63m\x{1CD71}\x1B[38;5;231m\x{1CDE1}\x1B[38;5;147m\x{2596}\x1B[38;5;215m\x{1CD05}\x1B[38;5;19m\x{259C}\x1B[49m\x{1CDE4}\x{1CDBB}\x1B[39m
+           \x1B[38;5;16m\x{1CDE5}\x1B[38;5;215;48;5;16m\x{1CDBB}\x1B[48;5;231m\x{2582}\x1B[48;5;63m\x{2584}\x{1CEA3}\x1B[38;5;19m\x{259F}\x1B[49m\x{1CDCA}\x{1FB82}\x{1CEA8}\x1B[39m
+           \x1B[38;5;130m\x{1CEAB}\x1B[38;5;215m\x{1CD26}\x1B[48;5;16m\x{1FB85}\x1B[48;5;19m\x{1CD17}\x{1CEA8}\x1B[38;5;19;49m\x{1FB85}\x{1FB85}\x{1CD2C}\x1B[39m
+            \x1B[38;5;16m\x{1CDCB}\x1B[48;5;215m\x{1CEA8}\x1B[38;5;19m\x{1CEAB}\x{1CDDE}\x{1CD05}\x1B[49m\x{1CDDE}\x1B[39m
+           \x1B[38;5;16m\x{1CD21}\x1B[48;5;147m\x{2582}\x1B[38;5;215;48;5;19m\x{1CD05}\x{1CD02}\x1B[38;5;231;48;5;147m\x{1CDAA}\x{1CD6E}\x1B[38;5;19;49m\x{1FB82}\x1B[39m
+             \x1B[38;5;16m\x{1CDD5}\x{2599}\x1B[48;5;19;38;5;231m\x{2582}\x1B[49;38;5;16m\x{1CDBB}\x1B[39m
+          \x1B[38;5;16m\x{2597}\x{2586}\x1B[48;5;202m\x{1CDCA}\x{1CDB2}\x{1CDAC}\x{1CDAE}\x1B[48;5;130m\x{1CDAC}\x1B[49m\x{258C}\x1B[39m
+EOC

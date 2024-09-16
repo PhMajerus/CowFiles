@@ -74,6 +74,13 @@ This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attr
 It is based on the assistant from Microsoft Bob and Windows XP.
 
 
+### sonic
+![sonic](images/sonic.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is based on the Game Gear version of the game Sonic the Hedgehog.
+
+
 ### sxl-cow
 ![sxl-cow](images/sxl-cow.png)
 
