@@ -122,6 +122,12 @@ This is a sixel image conversion of Guybrush Threepwood from The Secret of Monke
 This is a sixel image conversion of the Super Mario World sprites of Mario & Yoshi.
 
 
+### sxl-ryu
+![sxl-ryu](images/sxl-ryu.png)
+
+This is a sixel image conversion of a Ryu sprite from the game Street Fighter II.
+
+
 ### sxl-vanellope
 ![sxl-vanellope](images/sxl-vanellope.png)
 
@@ -156,3 +162,5 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 ---
 
 -- Philippe Majerus, September 2024
+
+_All characters and trademarks are property of their respective owners._
