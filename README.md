@@ -116,6 +116,12 @@ sudo ln -s sxl-cow.cow default.cow
 This is a sixel image conversion of Guybrush Threepwood from The Secret of Monkey Island.
 
 
+### sxl-indy
+![sxl-indy](images/sxl-indy.png)
+
+This is a sixel image conversion of Indiana Jones (Indy) from Indiana Jones and the Fate of Atlantis.
+
+
 ### sxl-mario+yoshi
 ![sxl-mario+yoshi](images/sxl-mario+yoshi.png)
 
