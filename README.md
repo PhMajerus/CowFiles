@@ -25,6 +25,21 @@ This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attr
 It is based on the assistant from Microsoft Office.
 
 
+### sxl-cow
+![sxl-cow](images/sxl-cow.png)
+
+This uses a sixel image.
+It is based on the cow sprite from the Super Famicom / SNES game Earthworm Jim.
+
+The idea of this character is to provide a "HD remaster" of the original cow.
+It can be used as a replacement for the ANSI-art cow used when `cowsay` is called without a `-f` option. To achieve this, rename the `default.cow` that ships with cowsay to `legacy-cow.cow`, and create a symbolic link `default.cow` pointing to `sxl-cow.cow` as follows:
+```bash
+cd /usr/share/cowsay/cows
+sudo mv default.cow legacy-cow.cow
+sudo ln -s sxl-cow.cow default.cow
+```
+
+
 ### dukenukem
 ![dukenukem](images/dukenukem.png)
 
@@ -39,11 +54,23 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the mobile phone game Flappy Bird.
 
 
+### sxl-guybrush
+![sxl-guybrush](images/sxl-guybrush.png)
+
+This is a sixel image conversion of Guybrush Threepwood from The Secret of Monkey Island.
+
+
 ### hellokitty
 ![hellokitty](images/hellokitty.png)
 
 This uses extended Unicode characters and ANSI/VT colors (16 colors) and attributes (strikethrough, underline).
 It is based on the Hello Kitty / ハロー・キティ character by Yuko Shimizu / Sanrio.
+
+
+### sxl-indy
+![sxl-indy](images/sxl-indy.png)
+
+This is a sixel image conversion of Indiana Jones (Indy) from Indiana Jones and the Fate of Atlantis.
 
 
 ### link
@@ -67,6 +94,12 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the Famicom / NES game Super Mario Bros.
 
 
+### sxl-mario+yoshi
+![sxl-mario+yoshi](images/sxl-mario+yoshi.png)
+
+This is a sixel image conversion of the Super Mario World sprites of Mario and Yoshi.
+
+
 ### mona
 ![mona](images/mona.png)
 
@@ -88,46 +121,6 @@ This uses MS-DOS codepage 437 characters and ANSI/VT colors (16 colors) and attr
 It is based on the assistant from Microsoft Bob and Windows XP.
 
 
-### sonic
-![sonic](images/sonic.png)
-
-This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
-It is based on the Game Gear version of the game Sonic the Hedgehog 2.
-
-
-### sxl-cow
-![sxl-cow](images/sxl-cow.png)
-
-This uses a sixel image.
-It is based on the cow sprite from the Super Famicom / SNES game Earthworm Jim.
-
-The idea of this character is to provide a "HD remaster" of the original cow.
-It can be used as a replacement for the ANSI-art cow used when `cowsay` is called without a `-f` option. To achieve this, rename the `default.cow` that ships with cowsay to `legacy-cow.cow`, and create a symbolic link `default.cow` pointing to `sxl-cow.cow` as follows:
-```bash
-cd /usr/share/cowsay/cows
-sudo mv default.cow legacy-cow.cow
-sudo ln -s sxl-cow.cow default.cow
-```
-
-
-### sxl-guybrush
-![sxl-guybrush](images/sxl-guybrush.png)
-
-This is a sixel image conversion of Guybrush Threepwood from The Secret of Monkey Island.
-
-
-### sxl-indy
-![sxl-indy](images/sxl-indy.png)
-
-This is a sixel image conversion of Indiana Jones (Indy) from Indiana Jones and the Fate of Atlantis.
-
-
-### sxl-mario+yoshi
-![sxl-mario+yoshi](images/sxl-mario+yoshi.png)
-
-This is a sixel image conversion of the Super Mario World sprites of Mario and Yoshi.
-
-
 ### sxl-ryu
 ![sxl-ryu](images/sxl-ryu.png)
 
@@ -140,16 +133,17 @@ This is a sixel image conversion of a Ryu sprite from the game Street Fighter II
 This is a sixel image conversion of Scrooge McDuck's face from the DuckTales Famicom / NES game title screen.
 
 
+### sonic
+![sonic](images/sonic.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is based on the Game Gear version of the game Sonic the Hedgehog 2.
+
+
 ### sxl-strider
 ![sxl-strider](images/sxl-strider.png)
 
 This is a sixel image conversion of Strider Hiryu / ストライダー飛竜 sprite from the eponymous game.
-
-
-### sxl-vanellope
-![sxl-vanellope](images/sxl-vanellope.png)
-
-This is a sixel image conversion of Vanellope von Schweetz character illustration from Wreck-It Ralph.
 
 
 ### tamagotchi
@@ -164,6 +158,12 @@ It is based on the 1<sup>st</sup> generation of Tamagotchi / たまごっち LCD
 
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is based on the arcade game The NewZealand Story.
+
+
+### sxl-vanellope
+![sxl-vanellope](images/sxl-vanellope.png)
+
+This is a sixel image conversion of Vanellope von Schweetz character illustration from Wreck-It Ralph.
 
 
 
