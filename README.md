@@ -15,7 +15,7 @@ While original cowsay files are ASCII-art, I decided to experiment with ANSI/VT 
 ![alexkidd](images/alexkidd.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on the Mark III/Master System game Alex Kidd in Miracle World.
+It is based on the Mark III / Master System game Alex Kidd in Miracle World / アレックスキッドのミラクルワールド.
 
 
 ### clippit
@@ -43,28 +43,28 @@ It is based on the mobile phone game Flappy Bird.
 ![hellokitty](images/hellokitty.png)
 
 This uses extended Unicode characters and ANSI/VT colors (16 colors) and attributes (strikethrough, underline).
-It is based on the Hello Kitty character by Yuko Shimizu / Sanrio.
+It is based on the Hello Kitty / ハロー・キティ character by Yuko Shimizu / Sanrio.
 
 
 ### link
 ![link](images/link.png)
 
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
-It is based on the Famicom/NES game The legend of Zelda / ゼルダの伝説.
+It is based on the Famicom / NES game The legend of Zelda / ゼルダの伝説 (The Hyrule Fantasy).
 
 
 ### link-16bit
 ![link-16bit](images/link-16bit.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on the Super Famicom/SNES game The legend of Zelda - A Link to the Past / 神々のトライフォース.
+It is based on the Super Famicom / SNES game The legend of Zelda / ゼルダの伝説 - A Link to the Past / 神々のトライフォース.
 
 
 ### mario
 ![mario](images/mario.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on the Famicom/NES game Super Mario Bros.
+It is based on the Famicom / NES game Super Mario Bros.
 
 
 ### mona
@@ -99,7 +99,7 @@ It is based on the Game Gear version of the game Sonic the Hedgehog 2.
 ![sxl-cow](images/sxl-cow.png)
 
 This uses a sixel image.
-It is based on the cow sprite from the Super Famicom/SNES game Earthworm Jim.
+It is based on the cow sprite from the Super Famicom / SNES game Earthworm Jim.
 
 The idea of this character is to provide a "HD remaster" of the original cow.
 It can be used as a replacement for the ANSI-art cow used when `cowsay` is called without a `-f` option. To achieve this, rename the `default.cow` that ships with cowsay to `legacy-cow.cow`, and create a symbolic link `default.cow` pointing to `sxl-cow.cow` as follows:
@@ -125,13 +125,19 @@ This is a sixel image conversion of Indiana Jones (Indy) from Indiana Jones and 
 ### sxl-mario+yoshi
 ![sxl-mario+yoshi](images/sxl-mario+yoshi.png)
 
-This is a sixel image conversion of the Super Mario World sprites of Mario & Yoshi.
+This is a sixel image conversion of the Super Mario World sprites of Mario and Yoshi.
 
 
 ### sxl-ryu
 ![sxl-ryu](images/sxl-ryu.png)
 
 This is a sixel image conversion of a Ryu sprite from the game Street Fighter II.
+
+
+### sxl-strider
+![sxl-strider](images/sxl-strider.png)
+
+This is a sixel image conversion of Strider Hiryu / ストライダー飛竜 sprite from the eponymous game.
 
 
 ### sxl-vanellope
@@ -144,7 +150,7 @@ This is a sixel image conversion of Vanellope von Schweetz character illustratio
 ![tamagotchi](images/tamagotchi.png)
 
 This uses Unicode 16.0 separated sextants.
-It is based on the 1<sup>st</sup> generation of Tamagotchi/たまごっち LCD toy by Bandai.
+It is based on the 1<sup>st</sup> generation of Tamagotchi / たまごっち LCD toy by Bandai.
 
 
 ### tiki
@@ -169,4 +175,4 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 -- Philippe Majerus, September 2024
 
-_All characters and trademarks are property of their respective owners._
+_These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
