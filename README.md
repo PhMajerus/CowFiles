@@ -134,6 +134,12 @@ This is a sixel image conversion of the Super Mario World sprites of Mario and Y
 This is a sixel image conversion of a Ryu sprite from the game Street Fighter II.
 
 
+### sxl-scrooge-face
+![sxl-scrooge-face](images/sxl-scrooge-face.png)
+
+This is a sixel image conversion of Scrooge McDuck's face from the DuckTales Famicom / NES game title screen.
+
+
 ### sxl-strider
 ![sxl-strider](images/sxl-strider.png)
 
