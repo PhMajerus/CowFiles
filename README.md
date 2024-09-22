@@ -133,6 +133,13 @@ This is a sixel image conversion of a Ryu sprite from the game Street Fighter II
 This is a sixel image conversion of Scrooge McDuck's face from the DuckTales Famicom / NES game title screen.
 
 
+### shinobi
+![shinobi](images/shinobi.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the sprite of Joe Musashi in the Game Gear game The GG 忍 Shinobi.
+
+
 ### sonic
 ![sonic](images/sonic.png)
 

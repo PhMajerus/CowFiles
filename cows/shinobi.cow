@@ -1,0 +1,18 @@
+##
+## Shinobi (Joe Musashi from The GG Shinobi)
+## Adapted from Game Gear sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[38;5;101m\x{1FB35}\x1B[38;5;188m\x{1FB31}\xA0\x1B[38;5;16m\x{1FB1E}\x1B[m
+         $thoughts \x1B[38;5;58m\x{1FB01}\x1B[38;5;88;48;5;173m\x{1FB02}\x1B[48;5;188m\x{1FB04}\x1B[38;5;101;49m\x{1FB31}\x1B[38;5;16m\x{1FB34}\x1B[m
+           \x1B[38;5;173m\x{1FB29}\x1B[38;5;101;48;5;88m\x{1FB0A}\x1B[48;5;188m\x{1FB1A}\x{1FB10}\x1B[49m\x{258C}\x1B[m
+           \x1B[38;5;16m\x{2590}\x1B[48;5;88m\x{1FB31}\x1B[38;5;101m\x{1FB01}\x1B[48;5;188m\x{1FB22}\x1B[49m\x{258C}\x1B[m
+          \x1B[38;5;88m\x{1FB1E}\x1B[48;5;16m\x{258C}\x1B[38;5;58m\x{1FB3A}\x1B[48;5;188m\x{1FB34}\x1B[38;5;101m\x{1FB37}\x1B[38;5;58;49m\x{258C}\x1B[m
+          \x1B[48;5;173;38;5;88m\x{1FB28}\x1B[38;5;58;49m\x{1FB2C}\x1B[38;5;16;48;5;101m\x{1FB02}\x1B[38;5;58;48;5;188m\x{1FB06}\x1B[38;5;16m\x{1FB15}\x1B[38;5;101;49m\x{1FB10}\x1B[m
+           \x1B[38;5;101m\x{1FB37}\x1B[48;5;58m\x{1FB18}\x1B[48;5;188m\x{1FB0B}\x{1FB11}\x1B[49m\x{258C}\x1B[m
+          \x1B[38;5;101m\x{1FB26}\x1B[48;5;188m\x{1FB25}\x1B[38;5;58;48;5;16m\x{1FB13}\x1B[38;5;188;48;5;101m\x{2590}\x{1FB24}\x1B[49m\x{258C}\x1B[m
+          \x1B[38;5;16m\x{1FB01}\x1B[48;5;88m\x{1FB11}\x1B[38;5;58;49m\x{258C}\x1B[38;5;16m\x{1FB0A}\x1B[48;5;88m\x{1FB11}\x1B[38;5;58;48;5;188m\x{1FB19}\x1B[38;5;101;49m\x{1FB0F}\x1B[m
+           \x1B[38;5;16;48;5;88m\x{1FB04}\x1B[38;5;101;49m\x{258C} \x1B[38;5;16m\x{1FB09}\x1B[48;5;88m\x{1FB14}\x1B[38;5;88;49m\x{258C}\x1B[m
+          \x1B[38;5;88m\x{1FB35}\x1B[48;5;16m\x{1FB0E}\x1B[38;5;58;49m\x{1FB00} \x1B[38;5;16m\x{1FB1E}\x1B[48;5;88m\x{1FB06}\x1B[38;5;88;49m\x{258C}\x1B[m
+EOC
