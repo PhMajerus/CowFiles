@@ -182,3 +182,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 -- Philippe Majerus, September 2024
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
+
+---
+
+If you enjoy ANSI-art and Unicode semigraphics, also check out [my FIGfonts collection](https://github.com/PhMajerus/FIGfonts)
