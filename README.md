@@ -133,6 +133,12 @@ This is a sixel image conversion of a Ryu sprite from the game Street Fighter II
 This is a sixel image conversion of Scrooge McDuck's face from the DuckTales Famicom / NES game title screen.
 
 
+### sxl-shadowdancer
+![sxl-shadowdancer](images/sxl-shadowdancer.png)
+
+This is a sixel image conversion of the main character and his dog sprites from Shadow Dancer / 影の舞.
+
+
 ### shinobi
 ![shinobi](images/shinobi.png)
 
