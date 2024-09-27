@@ -91,7 +91,7 @@ It is based on the Super Famicom / SNES game The legend of Zelda / ゼルダの�
 ![mario](images/mario.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on the Famicom / NES game Super Mario Bros.
+It is based on the Famicom / NES game Super Mario Bros, but with modern colors.
 
 
 ### sxl-mario+yoshi
