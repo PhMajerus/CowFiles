@@ -198,4 +198,4 @@ _These are all designed to celebrate classic pixel art nostalgia. All characters
 
 ---
 
-If you enjoy ANSI-art and Unicode semigraphics, also check out [my FIGfonts collection](https://github.com/PhMajerus/FIGfonts)
+If you enjoy ANSI-art and Unicode semigraphics, also check out [my FIGfonts collection](https://github.com/PhMajerus/FIGfonts) and [my ANSI-art collection](https://github.com/PhMajerus/ANSI-art).
