@@ -166,6 +166,12 @@ This uses Unicode 16.0 separated sextants.
 It is based on the 1<sup>st</sup> generation of Tamagotchi / たまごっち LCD toy by Bandai.
 
 
+### sxl-tentacle
+![sxl-tentacle](images/sxl-tentacle.png)
+
+This is a sixel image conversion of the Purple Tentacle sprite from Day of the Tentacle.
+
+
 ### tiki
 ![tiki](images/tiki.png)
 
