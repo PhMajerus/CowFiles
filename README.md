@@ -107,6 +107,12 @@ This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is based on the GitHub octocat mascot loading animation.
 
 
+### sxl-pikachu
+![sxl-pikachu](images/sxl-pikachu.png)
+
+This is a sixel image conversion of the Pikachu sprite of Pokémon Gold & Silver / ポケットモンスター 金 & 銀.
+
+
 ### ralph-face
 ![ralph-face](images/ralph-face.png)
 
