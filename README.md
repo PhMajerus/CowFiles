@@ -1,4 +1,4 @@
-# Philippe Majerus's cowsay files collection
+# Philippe Majerus’s cowsay files collection
 
 
 ## Introduction
