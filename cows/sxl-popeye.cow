@@ -1,0 +1,8 @@
+##
+## Popeye the Sailor from original Nintendo arcade game
+## Character sprite converted to Sixel image
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts \x1BP0;1q\"1;1;64;120#0;2;88;65;66#1;2;0;0;66#2;2;88;88;93#0!9?!4o!4{!4~NN~~NN{{\$#1!21?oo??oo-#0!5?{{!8~{{rrBBoorr??NN\$#1!15?BBKK{{NNKKNN\$#2!25?!8o-#0??o!16~KK!4NBB#2BB!4~{{rrNN{{#0!10?!4o\$#1!19?BB!12?BBKKoo-#0??!9~NNBB!8?ooKKBB~~NNoo!14?NN{{!6~oo\$#1!11?oo{{~~KK#2!6?ooKK!4?BBNN~~KKNN{{\$#1!31?ooKKoo??BB!8?ooBB-#0BB!7~!6?oo{{ooKKNN!4o??NN!6~!8?!4~NN!8~\$#1!13?BB??BBKK!4oNN??~~oo!18?oo\$#2!27?BB-#0???BBNN!4B!4?!4~??!8~BBNN!4~NNrr{{!6?BB!10~{{\$#2!5?oo!6{oo#1!4?~~!8?{{oo!4?ooKK-#2!5?NNBB!4{~~oo#0!32?{{!6~NNBBNN\$#1!7?{{!4B!4?oo??BB!4KBBooNN??{{!20?oo{{oo\$#0!15?BBNN~~{{!4r{{NNoo~~BB~~-#2!9?BB!6~#1~~BBNN!4o!4?BBrrooKK#0!10?!6~{{~~??~~\$!19?{{oo!4N!4~{{KKNN#2oo{{oo#1!12?BB??~~-#2!11?oo~~#1~~BB!4?oo{{NN!4B??oo!4?KKBB??ooNNoo\$#0!17?{{!4~NNBB#2oo!4{~~NN!4~rr{{~~NN#0ooNN!8~BB-#2!11?!4~!6?oo{{!12~{{~~BBNN~~oo#0NNKK!6~NN\$#1!15?~~oo{{NNBB!12?BB!8?NN??BB\$#0!17?NNBB-#1!9?ooKK!8N~~{{#0!30?BB\$#2!11?BB!8o??BB!14~-!13?!12~{{!10~BB\$#1!25?BB-#2!13?BB!22~-!15?NN!20~KKoo\$#1!37?oo-#2!17?rr!4N!12~KK!4B\$#1!19?!4o!12?rr{{-#2!17?oo!12r!4{!6~{{oo\$#1!19?!12K!4B-#2!15?{{!30~{{-!13?!14~!12N!12~-#1ooKKK!4{!4o#2!28?NN!8~NN!4?!4o\$??ooo!6?NN!8~NNBB#1!26?!4o{{!4Koo-NN{!14~{{!24?!4{!12~{{NN\$#2??B!14?BB!24?!4B!12?BB\x1B\\
+EOC

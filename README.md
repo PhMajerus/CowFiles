@@ -113,6 +113,12 @@ It is based on the GitHub octocat mascot loading animation.
 This is a sixel image conversion of the Pikachu sprite of Pokémon Gold & Silver / ポケットモンスター 金 & 銀.
 
 
+### sxl-popeye
+![sxl-popeye](images/sxl-popeye.png)
+
+This is a sixel image conversion of the Popeye the Sailor sprite from the Popeye arcade game.
+
+
 ### ralph-face
 ![ralph-face](images/ralph-face.png)
 
@@ -204,7 +210,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024
+-- Philippe Majerus, September 2024 to January 2025
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
