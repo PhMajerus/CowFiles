@@ -126,6 +126,13 @@ This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is based on the cover of the movie soundtrack of Wreck-It Ralph.
 
 
+### rhindle
+![rhindle](images/rhindle.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (16 colors).
+It is  based on Rhindle (red dragon) sprite from the Adventure Atari 2600 game.
+
+
 ### rover
 ![rover](images/rover.png)
 

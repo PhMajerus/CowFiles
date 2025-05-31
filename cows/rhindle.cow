@@ -1,0 +1,14 @@
+##
+## Rhindle the red dragon (Adventure)
+## Adapted from Atari 2600 sprite to Octants (Unicode 16.0) and VT 16-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts
+         $thoughts \x1B[91m\x{2584}\x{2584}\x{1CDB9}\x{1CD6E}\x1B[39m
+            \x1B[91m\x{1CEA0}\x{1CDD6}\x{1CD36}\x1B[39m
+           \x1B[91m\x{1CDE1}\x{1CD17}\x{2580}\x{2588}\x1B[39m
+           \x1B[91m\x{1FB85}\x{2584}\x{1CDE1}\x{1FB85}\x1B[39m
+           \x1B[91m\x{1CD2B}\x{1CDBB}\x{1CDB8}\x{1CDD7}\x1B[39m
+
+EOC
