@@ -22,7 +22,7 @@ It is based on the Mark III / Master System game Alex Kidd in Miracle World / �
 ![alis](images/alis.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on Alis, the main character from the Mark III / Master System game Phantasy Star / ファンタシースター.
+It is based on Alis Landale (アリサ・ランディール), the main character from the Mark III / Master System game Phantasy Star / ファンタシースター.
 
 
 ### clippit
@@ -224,7 +224,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024 to January 2025
+-- Philippe Majerus, September 2024 to June 2025
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
