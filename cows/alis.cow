@@ -1,0 +1,16 @@
+##
+## Alis (Phantasy Star)
+## Adapted from Mark III/Master System sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts   \x1B[0;38;5;16m \x{1FB1E}\x1B[38;5;207m\x{1FB1E}\x{1FB2D}\x1B[38;5;16m\x{1FB0F}\x1B[m
+         $thoughts \x1B[38;5;16m\x{1FB1E}\x{1FB26}\x1B[48;5;207m\x{1FB1B}\x1B[48;5;217m\x{1FB0A}\x{1FB06}\x1B[48;5;207m\x{1FB2B}\x1B[49m\x{1FB13}\x1B[m
+           \x1B[38;5;16;48;5;231m\x{1FB15}\x{2588}\x1B[48;5;217m\x{1FB31}\x{1FB00}\x{1FB01}\x{1FB35}\x1B[49m\x{2588}\x{1FB0F}\x1B[m
+           \x1B[38;5;16;48;5;231m\x{258C}\x1B[48;5;207m\x{1FB15}\x1B[38;5;61;48;5;188m\x{1FB34}\x1B[48;5;231m\x{1FB28}\x{1FB15}\x1B[48;5;188m\x{1FB38}\x1B[38;5;16;48;5;207m\x{1FB28}\x1B[49m\x{1FB04}\x1B[m
+          \x1B[38;5;16m\x{1FB1E}\x1B[48;5;231m\x{1FB32}\x1B[38;5;39;48;5;217m\x{1FB2D}\x1B[38;5;16;48;5;27m\x{258C}\x1B[38;5;61;48;5;39m\x{1FB02}\x{1FB02}\x1B[38;5;16;48;5;27m\x{2590}\x1B[38;5;39;48;5;217m\x{1FB2D}\x1B[38;5;16;49m\x{258C}\x1B[m
+           \x1B[38;5;16;48;5;217m\x{1FB32}\x{1FB37}\x1B[48;5;207m\x{1FB00}\x1B[38;5;145m\x{1FB2D}\x{1FB2D}\x1B[38;5;16m\x{1FB01}\x1B[48;5;217m\x{1FB32}\x{1FB37}\x1B[m
+            \x1B[38;5;16m\x{1FB0A}\x1B[48;5;145m\x{1FB13}\x1B[48;5;231m\x{2590}\x{258C}\x1B[48;5;145m\x{1FB26}\x1B[49m\x{1FB06}\x1B[m
+            \x1B[38;5;16m\x{1FB1E}\x1B[48;5;39m\x{1FB04}\x1B[48;5;27m\x{2590}\x{258C}\x1B[48;5;39m\x{1FB09}\x1B[49m\x{1FB0F}\x1B[m
+            \x1B[38;5;16m\x{1FB01}\x{1FB02}\x{1FB02}\x{1FB02}\x{1FB02}\x{1FB00}\x1B[m
+EOC

@@ -18,6 +18,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the Mark III / Master System game Alex Kidd in Miracle World / アレックスキッドのミラクルワールド.
 
 
+### alis
+![alis](images/alis.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on Alis, the main character from the Mark III / Master System game Phantasy Star / ファンタシースター.
+
+
 ### clippit
 ![clippit](images/clippit.png)
 
