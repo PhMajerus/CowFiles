@@ -219,7 +219,7 @@ Copy the files from this repo's `cows` folder to  `/usr/share/cowsay/cows`.
 
 Then simply use the `cowsay -f [character name] [message]` command.
 
-For Unicode sextants and octants, you will need recent fonts that include the _Legacy Computing Symbols_, such as [Cascadia Mono](https://github.com/microsoft/cascadia-code) or [Iosevka Term](https://github.com/be5invis/Iosevka).
+For Unicode sextants and octants, you will need recent fonts that include the _Legacy Computing Symbols_, such as [Cascadia Mono](https://github.com/microsoft/cascadia-code), [Cozette](https://github.com/the-moonwitch/Cozette), or [Iosevka Term](https://github.com/be5invis/Iosevka).
 For sixels images support, [Windows Terminal](https://github.com/microsoft/terminal) or another VT340-compatible terminal emulator is required.
 
 ---
