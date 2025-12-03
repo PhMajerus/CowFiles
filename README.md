@@ -47,6 +47,13 @@ sudo ln -s sxl-cow.cow default.cow
 ```
 
 
+### donkeykong
+![donkeykong](images/donkeykong.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is based on the original arcade game Donkey Kong.
+
+
 ### dukenukem
 ![dukenukem](images/dukenukem.png)
 
@@ -224,7 +231,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024 to June 2025
+-- Philippe Majerus, September 2024 to December 2025
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
