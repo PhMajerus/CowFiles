@@ -1,0 +1,16 @@
+##
+## Rockman / Mega Man
+## Adapted from Famicom/NES sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts    \x1B[38;5;16m\x{1FB2D}\x{1FB0F}\x1B[m
+         $thoughts \x1B[38;5;16m\x{1FB1E}\x1B[48;5;44m\x{1FB34}\x1B[38;5;27m\x{1FB35}\x1B[38;5;16;48;5;27m\x{1FB02}\x{1FB0A}\x1B[49m\x{1FB13}\x1B[m
+           \x1B[38;5;16;48;5;27m\x{258C}\x1B[38;5;44m\x{1FB0E}\x1B[38;5;231m\x{1FB2D}\x{1FB0F}\xA0\x1B[38;5;16;48;5;44m\x{1FB28}\x1B[m
+           \x1B[38;5;16;48;5;231m\x{258C}\x1B[38;5;16;48;5;222m\x{1FB04}\x1B[48;5;231m\x{1FB0E}\x1B[38;5;222m\x{1FB1E}\x1B[48;5;27m\x{258C}\x1B[38;5;16;48;5;44m\x{1FB3B}\x1B[m\xA0
+         \x1B[38;5;16m\x{1FB26}\x1B[48;5;27m\x{1FB02}\x1B[48;5;44m\x{1FB02}\x1B[48;5;222m\x{1FB24}\x{1FB30}\x{1FB2E}\x1B[48;5;44m\x{1FB05}\xA0\x1B[48;5;27m\x{1FB02}\x1B[49m\x{1FB13}\x1B[m
+         \x1B[38;5;16;48;5;27m\x{258C}\x{1FB07}\x1B[48;5;44m\x{1FB3B}\xA0\xA0\xA0\xA0\x{1FB3A}\x1B[48;5;27m\x{1FB03}\x{2590}\x1B[m
+         \x1B[38;5;16;48;5;27m\x{1FB3A}\x{1FB39}\x1B[48;5;44m\x{1FB1D}\x1B[38;5;27m\x{1FB2C}\x{2588}\x{2588}\x{1FB1D}\x1B[38;5;16m\x{1FB2C}\x1B[48;5;27m\x{1FB39}\x{1FB3B}\x1B[m
+         \x1B[38;5;16m\x{1FB2D}\x1B[48;5;27m\x{1FB0E}\x1B[38;5;44m\x{1FB01}\x{1FB0A}\x1B[48;5;16m\x{1FB00}\x{1FB01}\x1B[48;5;27m\x{1FB06}\xA0\x1B[38;5;16m\x{1FB0E}\x1B[49m\x{1FB2D}\x1B[m
+        \x1B[38;5;16m\x{2590}\x1B[48;5;27m\x{1FB39}\x{1FB39}\x{1FB39}\x{1FB3B}\x1B[49m\x{1FB00}\x{1FB01}\x1B[48;5;27m\x{1FB3A}\x{1FB39}\x{1FB39}\x{1FB39}\x1B[49m\x{258C}\x1B[m
+EOC

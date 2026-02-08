@@ -147,6 +147,13 @@ This uses Unicode 16.0 octants and ANSI/VT colors (16 colors).
 It is  based on Rhindle (red dragon) sprite from the Adventure Atari 2600 game.
 
 
+### rockman
+![rockman](images/rockman.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the Famicom / NES game Rockman / ロックマン / Mega Man.
+
+
 ### rover
 ![rover](images/rover.png)
 
@@ -231,7 +238,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024 to December 2025
+-- Philippe Majerus, September 2024 to February 2026
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
