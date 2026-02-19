@@ -114,6 +114,13 @@ It is based on the Famicom / NES game Super Mario Bros, but with modern colors.
 This is a sixel image conversion of the Super Mario World sprites of Mario and Yoshi.
 
 
+### mickey
+![mickey](images/mickey.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the Mark III / Master System game Castle of Illusion starring Mickey Mouse / アイラブミッキーマウス ふしぎのお城大冒険 (8-bit).
+
+
 ### mona
 ![mona](images/mona.png)
 
