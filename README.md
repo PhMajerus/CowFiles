@@ -193,6 +193,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the sprite of Joe Musashi in the Game Gear game The GG 忍 Shinobi.
 
 
+### shion
+![shion](images/shion.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the sprite of Shion in the Mega Drive game Wonder Boy in Monster World / ワンダーボーイⅤ モンスターワールドⅢ.
+
+
 ### sonic
 ![sonic](images/sonic.png)
 
