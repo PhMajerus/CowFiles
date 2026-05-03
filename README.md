@@ -240,6 +240,13 @@ This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is based on the arcade game The NewZealand Story.
 
 
+### tomtom
+![tomtom](images/tomtom.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the sprite of Tom-Tom in the arcade game Wonder Boy / ワンダーボーイ.
+
+
 ### sxl-vanellope
 ![sxl-vanellope](images/sxl-vanellope.png)
 
@@ -259,7 +266,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024 to February 2026
+-- Philippe Majerus, September 2024 to May 2026
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
