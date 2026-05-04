@@ -25,11 +25,25 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on Alis Landale (アリサ・ランディール), the main character from the Mark III / Master System game Phantasy Star / ファンタシースター.
 
 
+### bobblun
+![bobblun](images/bobblun.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on Bobblun (Bob) / ボブルン, one of the two main characters from the arcade game Bubble Bobble / バブルボブル.
+
+
 ### bock
 ![bock](images/bock.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on Bock, the main character from the game Wonder Boy in Monster Land / ワンダーボーイⅡ モンスターワールドⅠ, from its Mark III / Master System port.
+
+
+### bubblun
+![bubblun](images/bubblun.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on Bubblun (Bub) / バブルン, one of the two main characters from the arcade game Bubble Bobble / バブルボブル.
 
 
 ### clippit
