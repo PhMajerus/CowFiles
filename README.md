@@ -161,6 +161,13 @@ This is a sixel image conversion of the Pikachu sprite of Pokémon Gold & Silver
 This is a sixel image conversion of the Popeye the Sailor sprite from the Popeye arcade game.
 
 
+### psychofox
+![psychofox](images/psychofox.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on Psycho Fox, the main character from the eponymous Mark III / Master System game.
+
+
 ### ralph-face
 ![ralph-face](images/ralph-face.png)
 
