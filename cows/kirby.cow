@@ -1,0 +1,13 @@
+##
+## Kirby (Kirby's Adventure)
+## Adapted from Famicom/NES sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts    \x1B[0;38;5;16m\x{1FB2D}\x{1FB2D}\x{1FB2D}\x{1FB0F}\x1B[m
+         $thoughts \x1B[38;5;16m\x{1FB1E}\x1B[48;5;206m\x{1FB15}\x1B[48;5;218;38;5;206m\x{1FB00}\xA0\x{1FB01}\x1B[38;5;16m\x{1FB02}\x1B[49m\x{1FB31}\x1B[m
+           \x1B[38;5;16m\x{1FB37}\x1B[38;5;206;48;5;218m\x{1FB04}\x1B[38;5;16m\x{1FB13}\x{1FB13}\xA0\xA0\x{1FB01}\x1B[49m\x{1FB31}\x1B[m
+           \x1B[38;5;16;48;5;218m\x{258C}\x1B[38;5;206m\x{1FB1A}\x1B[38;5;16m\x{1FB00}\x{1FB00}\x1B[38;5;206m\x{1FB0B}\x{1FB1E}\xA0\x1B[38;5;16;48;5;206m\x{2590}\x1B[m
+           \x1B[38;5;16m\x{1FB0A}\x1B[48;5;218m\x{1FB32}\x{1FB01}\xA0\x1B[38;5;206m\x{1FB1E}\x1B[48;5;206;38;5;16m\x{1FB20}\x{1FB39}\x1B[49m\x{1FB00}\x1B[m
+           \x1B[38;5;16m\x{1FB2B}\x1B[48;5;206m\x{1FB2D}\x{1FB38}\x1B[49m\x{1FB0E}\x1B[48;5;206m\x{1FB34}\x{1FB2E}\x{1FB2F}\x1B[49m\x{1FB03}\x1B[m
+EOC

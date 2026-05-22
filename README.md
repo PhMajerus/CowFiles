@@ -108,6 +108,13 @@ It is based on the Hello Kitty / ハロー・キティ character by Yuko Shimizu
 This is a sixel image conversion of Indiana Jones (Indy) from Indiana Jones and the Fate of Atlantis.
 
 
+### kirby
+![kirby](images/kirby.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the Famicom / NES game Kirby's Adventure / 星のカービィ 夢の泉の物語 (original Japanese color).
+
+
 ### link
 ![link](images/link.png)
 
