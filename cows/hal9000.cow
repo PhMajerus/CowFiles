@@ -1,0 +1,19 @@
+##
+## HAL 9000 (2001: A Space Odyssey)
+## Using Octants and Separated Sextants (Unicode 16.0), and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts     \x1B[0;38;5;59;48;5;16m\x{2554}\x{2550}\x{2550}\x{2550}\x{2550}\x{2550}\x{2550}\x{2550}\x{2557}\x1B[m
+         $thoughts    \x1B[38;5;59;48;5;16m\x{2551}\x1B[48;5;39;38;5;188m\x{210D}\x{1D538}\x{1D543}\x1B[48;5;59;38;5;145m\x{1D7E1}\x{1D7D8}\x{1D7D8}\x{1D7D8}\x1B[38;5;59;48;5;16m\x{2551}\x1B[m
+          $thoughts   \x1B[38;5;59;48;5;16m\x{2551}\xA0\xA0\xA0\xA0\xA0\xA0\xA0\x{2551}\x1B[m
+           $thoughts  \x1B[38;5;59;48;5;16m\x{2551}\xA0\xA0\xA0\xA0\xA0\xA0\xA0\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\xA0\xA0\xA0\xA0\xA0\xA0\xA0\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\xA0\x1B[38;5;231m\x{1CD4B}\x{1CD3B}\x1B[38;5;188m\x{1CD2A}\x1B[38;5;145m\x{1CD89}\x{1CD93}\x1B[38;5;59m\xA0\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\x1B[38;5;188m\x{2590}\x{259D}\x1B[38;5;88m\x{1FBE9}\x1B[48;5;172m\x{1CDAE}\x1B[48;5;16m\x{1FBEB}\x1B[38;5;102m\xA0\x{258C}\x1B[38;5;59m\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\xA0\x1B[38;5;145m\x{1CD1D}\x1B[38;5;102m\x{1CD80}\x{2582}\x1B[38;5;59m\x{1CD51}\x{1CD12}\xA0\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\x{1CE70}\x{1CE80}\x{1CE80}\x{1CE80}\x{1CE80}\x{1CE80}\x{1CE60}\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\x{1CE7A}\x{1CE8F}\x{1CE8F}\x{1CE8F}\x{1CE8F}\x{1CE8F}\x{1CE65}\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{2551}\x{1CE7A}\x{1CE8F}\x{1CE8F}\x{1CE8F}\x{1CE8F}\x{1CE8F}\x{1CE65}\x{2551}\x1B[m
+              \x1B[38;5;59;48;5;16m\x{255A}\x{2550}\x{2550}\x{2550}\x{2550}\x{2550}\x{2550}\x{2550}\x{255D}\x1B[m
+EOC

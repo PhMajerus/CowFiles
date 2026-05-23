@@ -95,6 +95,13 @@ It is based on the mobile phone game Flappy Bird.
 This is a sixel image conversion of Guybrush Threepwood from The Secret of Monkey Island.
 
 
+### hal9000
+![hal9000](images/hal9000.png)
+
+This uses Unicode 16.0 octants and separated sextants, and ANSI/VT colors (256 colors).
+It is based on the artificial intelligence character HAL 9000 from the movie 2001: A Space Odyssey.
+
+
 ### hellokitty
 ![hellokitty](images/hellokitty.png)
 
