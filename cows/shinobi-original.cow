@@ -1,0 +1,18 @@
+##
+## Shinobi (Joe Musashi from Shinobi)
+## Adapted from Mark III/Master System sprite to Octants (Unicode 16.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts  \x1B[0;38;5;16m\x{1CDCB}\x{2584}\x{1CEA3}\x1B[m
+         $thoughts \x1B[38;5;217;48;5;130m\x{1CD65}\x1B[38;5;16m\x{1CD8F}\x1B[49m\x{1CDC0}\x1B[38;5;142m\x{1CDBF}\x1B[m
+           \x1B[38;5;21m\x{2590}\x1B[38;5;16;48;5;145m\x{259B}\x1B[48;5;58m\x{1FB82}\x1B[48;5;196m\x{2586}\x1B[49m\x{1CDDE}\x{1CEA3}\x1B[m
+           \x1B[38;5;16m\x{2590}\x1B[38;5;145;48;5;58m\x{1CD8A}\x1B[38;5;16m\x{2590}\x{1CD0E}\x{1CDC2}\x1B[49m\x{1CD6E}\x1B[m
+          \x1B[38;5;217m\x{1CDE1}\x1B[38;5;142;48;5;16m\x{1CD16}\x1B[38;5;58;48;5;19m\x{1CD02}\x1B[38;5;16m\x{1CD73}\x{1CDAE}\x1B[49m\x{1CD02}\x1B[m
+           \x1B[38;5;16m\x{1CDCB}\x1B[48;5;58m\x{259C}\x1B[38;5;145m\x{1CD4B}\x1B[38;5;16m\x{1CD72}\x1B[49m\x{258C}\x1B[m
+          \x1B[38;5;16m\x{2597}\x1B[48;5;58m\x{1CD75}\x{1CDE5}\x1B[38;5;145m\x{1CD20}\x1B[38;5;19m\x{2582}\x1B[38;5;16;49m\x{258C}\x1B[m
+          \x1B[38;5;16m\x{2590}\x1B[48;5;130m\x{1CDAB}\x1B[49m\x{1CD45}\x{1CD22}\x1B[48;5;130;38;5;142m\x{1CDA4}\x1B[38;5;16m\x{1CD22}\x1B[49m\x{2596}\x1B[m
+          \x1B[38;5;16m\x{1CEAB}\x1B[48;5;130m\x{1CDC1}\x1B[49m\x{258C} \x1B[38;5;130m\x{259D}\x1B[48;5;142m\x{1CDC5}\x1B[48;5;16m\x{2596}\x1B[m
+          \x1B[38;5;16m\x{1CEA0}\x{2588}\x{1CD45}  \x1B[38;5;130m\x{1CEAB}\x1B[38;5;16;48;5;58m\x{1CDB6}\x1B[49m\x{1CD0D}\x1B[m
+          \x1B[38;5;16m\x{1FB82}\x{1FB82}\x{1CEA8}  \x{1CEAB}\x{1FB82}\x1B[m
+EOC

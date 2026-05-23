@@ -228,6 +228,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on the sprite of Joe Musashi in the Game Gear game The GG 忍 Shinobi.
 
 
+### shinobi-original
+![shinobi-original](images/shinobi-original.png)
+
+This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
+It is based on the sprite of Joe Musashi in the Mark III / Master System version of the game 忍 Shinobi.
+
+
 ### shion
 ![shion](images/shion.png)
 
