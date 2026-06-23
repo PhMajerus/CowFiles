@@ -1,0 +1,18 @@
+##
+## Asha (Monster World IV)
+## Adapted from Mega Drive sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts    \x1B[0;38;5;238m\x{1FB1E}\x{1FB2D}\x{1FB1E}\x{1FB2D}\x{1FB2D}\x{1FB2D}\x{1FB1E}\x{1FB2D}\x1B[m
+         $thoughts  \x1B[38;5;238m\x{1FB26}\x1B[48;5;83m\x{1FB06}\x1B[38;5;231m\x{1FB1A}\x1B[38;5;238m\x{1FB00}\x1B[38;5;34m\x{1FB0F}\x{1FB02}\x1B[48;5;231m\x{1FB22}\x1B[38;5;238m\x{1FB0A}\x1B[48;5;83m\x{1FB11}\x1B[49m\x{1FB32}\x1B[m
+          $thoughts \x1B[38;5;238m\x{2590}\x1B[38;5;34;48;5;83m\x{1FB0F}\x1B[38;5;52m\x{1FB35}\x1B[38;5;34;48;5;208m\x{1FB10}\x{1FB20}\x1B[38;5;52;48;5;83m\x{1FB31}\x1B[38;5;231m\x{1FB02}\x1B[38;5;238m\x{1FB08}\x{1FB27}\x{1FB09}\x1B[49m\x{1FB13}\x1B[m
+            \x1B[38;5;238m\x{1FB1E}\x1B[48;5;231m\x{1FB06}\x1B[38;5;213m\x{258C}\x1B[38;5;16;48;5;215m\x{258C}\x{2590}\x1B[38;5;221;48;5;231m\x{2590}\x1B[38;5;52;48;5;213m\x{1FB28}\x1B[38;5;238;48;5;83m\x{1FB2D}\x{1FB14}\xA0\x1B[49m\x{258C}\x1B[m
+           \x1B[38;5;238m\x{1FB1E}\x1B[48;5;231m\x{1FB06}\x1B[38;5;102m\x{2590}\x1B[38;5;52;48;5;215m\x{1FB31}\xA0\xA0\x1B[38;5;208m\x{1FB1E}\x1B[38;5;52;48;5;226m\x{1FB15}\x1B[38;5;238;48;5;231m\x{258C}\x1B[38;5;34m\x{1FB01}\x1B[48;5;83m\x{1FB22}\x1B[0;38;5;238m\x{258C}\x1B[m
+           \x1B[38;5;238m\x{1FB09}\x1B[48;5;231m\x{1FB31}\x1B[38;5;52;48;5;102m\x{1FB35}\x1B[48;5;226m\x{1FB32}\x{1FB30}\x{1FB30}\x{1FB36}\x1B[48;5;215m\x{1FB02}\x1B[48;5;102m\x{1FB32}\x1B[38;5;34;48;5;231m\x{1FB2D}\x1B[48;5;83m\x{1FB24}\x1B[0;38;5;238m\x{258C}\x1B[m
+          \x1B[38;5;52m\x{1FB35}\x1B[48;5;215m\x{1FB0E}\x{1FB0E}\x{1FB00}\x1B[48;5;83m\x{1FB15}\x1B[38;5;231m\x{1FB35}\x{1FB31}\x1B[38;5;52m\x{1FB01}\x1B[48;5;215m\x{1FB32}\x{1FB09}\x{1FB0E}\x{1FB02}\x1B[49m\x{1FB13}\x1B[m
+          \x1B[38;5;52m\x{1FB01}\x1B[48;5;215m\x{1FB3A}\x{1FB03}\x{2590}\x1B[38;5;231;48;5;83m\x{2590}\x{2588}\x{2588}\x{1FB3A}\x1B[38;5;52m\x{1FB09}\x1B[48;5;215m\x{1FB13}\x{1FB07}\x1B[48;5;208m\x{1FB2E}\x{1FB37}\x1B[m
+           \x1B[38;5;52m\x{1FB01}\x{1FB0E}\x{1FB28}\x1B[38;5;34;48;5;83m\x{1FB0F}\x1B[38;5;231m\x{1FB00}\x1B[38;5;34m\x{1FB2D}\x1B[38;5;231m\x{1FB00}\x1B[38;5;34m\x{1FB1E}\x1B[0;38;5;52m\x{1FB15}\x{1FB0E}\x{1FB00}\x1B[m
+             \x1B[38;5;52m\x{1FB1E}\x{1FB38}\x1B[38;5;34;48;5;208m\x{1FB02}\x1B[0;38;5;52m\x{1FB15}\x{1FB28}\x1B[38;5;34;48;5;208m\x{1FB02}\x1B[0;38;5;52m\x{1FB32}\x{1FB0F}\x1B[m
+            \x1B[38;5;52m\x{1FB26}\x1B[48;5;213m\x{1FB00}\x1B[38;5;231m\x{1FB0B}\x1B[38;5;52m\x{1FB21}\x1B[49m\x{258C}\x{2590}\x1B[48;5;213m\x{1FB00}\x1B[38;5;231m\x{1FB0B}\x1B[38;5;52m\x{1FB01}\x1B[49m\x{1FB13}\x1B[m
+EOC

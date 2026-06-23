@@ -25,6 +25,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on Alis Landale (アリサ・ランディール), the main character from the Mark III / Master System game Phantasy Star / ファンタシースター.
 
 
+### asha
+![asha](images/asha.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the sprite of Asha / アーシャ in the Mega Drive game Monster World IV / モンスターワールドⅣ.
+
+
 ### bobblun
 ![bobblun](images/bobblun.png)
 
