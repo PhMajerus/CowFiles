@@ -25,6 +25,13 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on Alis Landale (アリサ・ランディール), the main character from the Mark III / Master System game Phantasy Star / ファンタシースター.
 
 
+### amy
+![amy](images/amy.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the sprite of Amy Rose / エミー・ローズ in the Mega CD game Sonic the Hedgehog CD.
+
+
 ### asha
 ![asha](images/asha.png)
 
