@@ -266,6 +266,13 @@ It is based on the sprite of Shion in the Mega Drive game Wonder Boy in Monster 
 ### sonic
 ![sonic](images/sonic.png)
 
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on the Mega Drive version of the game Sonic the Hedgehog.
+
+
+### sonic-8bit
+![sonic-8bit](images/sonic-8bit.png)
+
 This uses Unicode 16.0 octants and ANSI/VT colors (256 colors).
 It is based on the Game Gear version of the game Sonic the Hedgehog 2.
 
@@ -322,7 +329,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024 to May 2026
+-- Philippe Majerus, September 2024 to July 2026
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
