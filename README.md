@@ -123,6 +123,13 @@ This uses extended Unicode characters and ANSI/VT colors (16 colors) and attribu
 It is based on the Hello Kitty / ハロー・キティ character by Yuko Shimizu / Sanrio.
 
 
+### hu-man
+![hu-man](images/hu-man.png)
+
+This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
+It is based on Hu-Man (Bock in human form), the main character from the game Wonder Boy III : The Dragon's Trap / モンスターワールドⅡ ドラゴンの罠 on the Game Gear.
+
+
 ### sxl-indy
 ![sxl-indy](images/sxl-indy.png)
 

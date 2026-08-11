@@ -1,0 +1,18 @@
+##
+## Hu-Man / Bock (Wonder Boy III / Monster World II : The Dragon's Trap)
+## Adapted from Game Gear sprite to Sextants (Unicode 13.0) and VT 256-colors coloring
+## by Philippe Majerus (http://www.phm.lu/)
+##
+$the_cow = <<EOC;
+        $thoughts    \x1B[0;38;5;231m\x{1FB35}\x1B[38;5;145m\x{1FB0F}\x1B[m
+         $thoughts  \x1B[38;5;59m\x{2590}\x1B[38;5;231;48;5;145m\x{2590}\x1B[38;5;59m\x{2590}\x1B[38;5;46;49m\x{1FB0F}\x{1FB1E}\x{1FB2D}\x1B[38;5;28m\x{1FB2D}\x{1FB2D}\x1B[m
+          $thoughts \x1B[38;5;59m\x{2590}\x1B[38;5;231;48;5;145m\x{2590}\x1B[38;5;59m\x{2590}\x1B[38;5;28;48;5;46m\x{1FB26}\x{2588}\x1B[48;5;209m\x{1FB0E}\x{1FB2C}\x1B[49m\x{2588}\x{2588}\x{1FB13}\x1B[m
+            \x1B[38;5;59m\x{2590}\x1B[38;5;231;48;5;145m\x{2590}\x1B[38;5;46m\x{2590}\x1B[38;5;231;48;5;28m\x{1FB1E}\x1B[48;5;209m\xA0\x{1FB2D}\x{1FB2D}\x1B[38;5;28;48;5;209m\x{1FB2C}\x1B[48;5;216m\x{1FB1D}\x1B[49m\x{2588}\x1B[m
+            \x1B[38;5;59m\x{2590}\x1B[38;5;231;48;5;145m\x{2590}\x1B[38;5;59m\x{2590}\x1B[38;5;16;48;5;231m\x{1FB09}\x1B[38;5;209;48;5;216m\x{1FB30}\x1B[38;5;16;48;5;231m\x{1FB04}\xA0\x1B[38;5;209m\x{2590}\x1B[48;5;28m\x{1FB09}\xA0\x1B[m
+           \x1B[38;5;88m\x{1FB01}\x1B[48;5;196m\x{1FB3A}\x{1FB0B}\x{1FB14}\x1B[48;5;145m\x{1FB30}\x1B[38;5;196;48;5;231m\x{1FB30}\x1B[48;5;145m\x{1FB27}\x1B[38;5;216;48;5;231m\x{1FB39}\x1B[48;5;209m\x{1FB04}\x1B[38;5;28;49m\x{2588}\x{1FB3A}\x{1FB03}\x1B[m
+            \x1B[38;5;209;48;5;216m\x{1FB15}\x{1FB0C}\x1B[48;5;196m\x{258C}\x1B[38;5;88;48;5;145m\x{1FB2D}\x1B[38;5;196;48;5;231m\x{1FB2D}\x1B[48;5;145m\x{1FB28}\x1B[38;5;209;48;5;59m\x{2590}\x{1FB3A}\x1B[48;5;216m\x{1FB2E}\x1B[49m\x{1FB3A}\x1B[m
+            \x1B[38;5;209m\x{1FB0A}\x{1FB0E}\x1B[38;5;196m\x{1FB28}\x1B[38;5;88;48;5;145m\x{1FB0F}\x1B[38;5;231m\x{1FB0E}\x1B[38;5;196m\x{1FB19}\x1B[38;5;59m\x{1FB12}\x1B[38;5;209;48;5;231m\x{1FB02}\x1B[48;5;145m\x{1FB02}\x1B[38;5;59;49m\x{258C}\x1B[m
+              \x1B[38;5;145m\x{1FB0E}\x1B[38;5;88;48;5;216m\x{1FB02}\x1B[38;5;196;48;5;59m\x{1FB02}\x1B[38;5;231;48;5;145m\x{2590}\x1B[38;5;59m\x{1FB37}\x1B[48;5;216m\x{1FB06}\x1B[38;5;145m\x{1FB0A}\x1B[49m\x{1FB0C}\x1B[m
+              \x1B[38;5;28m\x{1FB37}\x1B[48;5;46m\x{1FB0F}\x{2590}\x1B[38;5;59;49m\x{1FB15}\x1B[38;5;209m\x{1FB01}\x1B[38;5;28;48;5;209m\x{1FB2D}\x{1FB2D}\x{1FB3B}\x1B[49m\x{1FB13}\x1B[m
+              \x1B[38;5;46m\x{1FB02}\x{1FB02}\x1B[38;5;28m\x{1FB02}\xA0\xA0\x1B[38;5;46m\x{1FB01}\x{1FB02}\x1B[38;5;28m\x{1FB02}\x1B[m
+EOC
