@@ -50,7 +50,7 @@ It is based on Bobblun (Bob) / ボブルン, one of the two main characters from
 ![bock](images/bock.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on Bock, the main character from the game Wonder Boy in Monster Land / ワンダーボーイⅡ モンスターワールドⅠ, from its Mark III / Master System port.
+It is based on Bock / ブック, the main character from the game Wonder Boy in Monster Land / ワンダーボーイⅡ モンスターワールドⅠ, from its Mark III / Master System port.
 
 
 ### bubblun
@@ -127,7 +127,7 @@ It is based on the Hello Kitty / ハロー・キティ character by Yuko Shimizu
 ![hu-man](images/hu-man.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on Hu-Man (Bock in human form), the main character from the game Wonder Boy III : The Dragon's Trap / モンスターワールドⅡ ドラゴンの罠 on the Game Gear.
+It is based on Hu-Man (Bock / ブック in human form), the main character from the game Wonder Boy III : The Dragon's Trap / モンスターワールドⅡ ドラゴンの罠 on the Game Gear.
 
 
 ### sxl-indy
@@ -267,7 +267,7 @@ It is based on the sprite of Joe Musashi in the Mark III / Master System version
 ![shion](images/shion.png)
 
 This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
-It is based on the sprite of Shion in the Mega Drive game Wonder Boy in Monster World / ワンダーボーイⅤ モンスターワールドⅢ.
+It is based on the sprite of Shion / シオン in the Mega Drive game Wonder Boy in Monster World / ワンダーボーイⅤ モンスターワールドⅢ.
 
 
 ### sonic
@@ -336,7 +336,7 @@ For sixels images support, [Windows Terminal](https://github.com/microsoft/termi
 
 ---
 
--- Philippe Majerus, September 2024 to July 2026
+-- Philippe Majerus, September 2024 to August 2026
 
 _These are all designed to celebrate classic pixel art nostalgia. All characters and trademarks are the property of their respective owners._
 
