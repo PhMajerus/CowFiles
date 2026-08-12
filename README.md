@@ -130,6 +130,12 @@ This uses Unicode 13.0 sextants and ANSI/VT colors (256 colors).
 It is based on Hu-Man (Bock / ブック in human form), the main character from the game Wonder Boy III : The Dragon's Trap / モンスターワールドⅡ ドラゴンの罠 on the Game Gear.
 
 
+### sxl-hypnotoad
+![sxl-hypnotoad](images/sxl-hypnotoad.png)
+
+This is a sixel image conversion of the hypnotoad character illustration from Futurama.
+
+
 ### sxl-indy
 ![sxl-indy](images/sxl-indy.png)
 
